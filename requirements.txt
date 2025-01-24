@@ -1,0 +1,5 @@
+Flask==2.2.2
+beautifulsoup4==4.12.2
+language-tool-python==1.5.5
+spacy==3.6.0
+requests==2.31.0
